@@ -1,7 +1,7 @@
 {   
 	"Version": "1.00",
-	"FileList":"http://200.10.135.211/DayZ/filelist.json",
-	"DownloadUpdate": "http:/200.10.135.211/DayZ/Game/",		
+	"FileList":"http://200.10.135.211:2302/dayz/filelist.json",
+	"DownloadUpdate": "http://200.10.135.211:2302/dayz/game/",		
 	"News": [
 		"https://dayzspartan.github.io/spartan/News/0.png",
 		"https://dayzspartan.github.io/spartan/News/1.png",
